@@ -1,0 +1,15 @@
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\bin\Debug\net7.0\nataliamacias_SWPS.exe
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\bin\Debug\net7.0\nataliamacias_SWPS.deps.json
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\bin\Debug\net7.0\nataliamacias_SWPS.runtimeconfig.json
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\bin\Debug\net7.0\nataliamacias_SWPS.dll
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\bin\Debug\net7.0\nataliamacias_SWPS.pdb
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\obj\Debug\net7.0\nataliamacias_SWPS.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\obj\Debug\net7.0\nataliamacias_SWPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\obj\Debug\net7.0\nataliamacias_SWPS.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\obj\Debug\net7.0\nataliamacias_SWPS.AssemblyInfo.cs
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\obj\Debug\net7.0\nataliamacias_SWPS.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\obj\Debug\net7.0\nataliamacias_SWPS.dll
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\obj\Debug\net7.0\refint\nataliamacias_SWPS.dll
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\obj\Debug\net7.0\nataliamacias_SWPS.pdb
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\obj\Debug\net7.0\nataliamacias_SWPS.genruntimeconfig.cache
+C:\Users\Student\Desktop\Natalia\nataliamacias_SWPS\obj\Debug\net7.0\ref\nataliamacias_SWPS.dll
