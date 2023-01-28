@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "nataliamacias_SWPS/1.0.0": {
+        "runtime": {
+          "nataliamacias_SWPS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "nataliamacias_SWPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
